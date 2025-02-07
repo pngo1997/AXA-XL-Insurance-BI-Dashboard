@@ -1,0 +1,8 @@
+Metric Name,Target Value (%),Benchmark Source,Target Value (Days)
+SLA Compliance,90.0,Internal,
+Approval Rate,85.0,Internal,
+Loss Ratio,70.0,Industry Average,
+Expense Ratio,30.0,Industry Average,
+Profit Margins,15.0,Internal,
+Productivity Score,80.0,Internal,
+Average Handling Time (Days),,Internal,10.0
